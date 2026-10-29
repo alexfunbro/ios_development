@@ -6,11 +6,11 @@ Single-screen music player built with UIKit. It shows the track cover, title and
 
 | iPhone SE (3rd gen) | iPhone 16 Pro Max |
 |:---:|:---:|
-| <img src="screenshots/iphone-se.png" width="250"> | <img src="screenshots/iphone-16-pro-max.png" width="250"> |
+| <img src="screenshots/Simulator_Screenshot_iPhone_SE_3rd_generation_2026_10_29_at_20_41.png" width="250"> | <img src="screenshots/Simulator_Screenshot_iPhone_16_Pro_Max_2026_10_29_at_20_43_23.png" width="250"> |
 
 ## Demo
 
-Screen recording (play, pause, next, previous, wrap-around): [demo.mov](screenshots/demo.mov)
+Screen recording (play, pause, next, previous, wrap-around): [demo.mov](screenshots/Simulator_Screen_Recording_iPhone_16_Pro_Max_2026_10_29_at_20_45.mov)
 
 ## Layout (Main.storyboard only)
 
